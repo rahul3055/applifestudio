@@ -1,11 +1,7 @@
-{
-  "AppName": "ALS_Street_Poster",
-  "AdType": "facebook",
-  "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Rectangle": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "AdShowCounter": "1"
+{ "Employee" :
+  [
+    {"id":"101","type":"1","TypeName":"Text","sources":"My Text here","title":"Big Buck Bunny","subtitle":"By Blender Foundation","thumb":"images/BigBuckBunny.jpg"},
+    {"id":"102","type":"1","TypeName":"Video","sources":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4","title":"Big Buck Bunny","subtitle":"By Blender Foundation","thumb":"images/BigBuckBunny.jpg"},
+    {"id":"103","type":"1","TypeName":"Image","sources":"https://www.preemploymentassessments.com/wp-content/uploads/2020/04/image1.jpg","title":"Big Buck Bunny","subtitle":"By Blender Foundation","thumb":"images/BigBuckBunny.jpg"}
+  ]
 }
